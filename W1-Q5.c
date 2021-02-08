@@ -28,9 +28,7 @@ int main()
             break;
         case 'u': 
             printf("Vowel");
-            
-        case 'A': 
-            printf("Vowel");
+           
             break;
         case 'A': 
             printf("Vowel");
